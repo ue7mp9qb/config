@@ -53,6 +53,11 @@
 		</Rule>
 		<Rule enabled="true">
 			<Action type="Direct" />
+			<Applications>java.exe</Applications>
+			<Name>java</Name>
+		</Rule>
+		<Rule enabled="true">
+			<Action type="Direct" />
 			<Name>Default</Name>
 		</Rule>
 	</RuleList>
